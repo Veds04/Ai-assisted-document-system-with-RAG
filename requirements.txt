@@ -1,0 +1,29 @@
+langchain
+langchain-core
+langchain-community
+langgraph
+
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+
+python-dotenv
+
+# Document loaders
+pypdf
+python-docx
+docx2txt
+beautifulsoup4
+lxml
+unstructured
+
+# Vector store
+faiss-cpu
+
+# Utilities
+tiktoken
+requests
+
+# API
+fastapi
+uvicorn
